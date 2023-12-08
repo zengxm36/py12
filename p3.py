@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 #\转义符号,在enter键上面qwq
 print('hello')
 print("hello","\"")
