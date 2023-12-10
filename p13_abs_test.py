@@ -34,7 +34,7 @@ a = move(1, 2 , 3 , math.pi / 6)
 
 print(a)
 
-quadratic(a, b, c) #定义一个包含三个参数的函数，返回一元二次方程ax**2+bx+c=0的解
+#quadratic(a, b, c) #定义一个包含三个参数的函数，返回一元二次方程ax**2+bx+c=0的解
 
 def quadratic(a,b,c):
     if not isinstance(a,(int,float)) or isinstance(b,(int,float)) or isinstance(c,(int,float)) :
